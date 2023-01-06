@@ -1,0 +1,12 @@
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\bin\Debug\المشروع.exe.config
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\bin\Debug\المشروع.exe
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\bin\Debug\المشروع.pdb
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\obj\Debug\المشروع.csprojResolveAssemblyReference.cache
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\obj\Debug\المشروع.form1.resources
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\obj\Debug\المشروع.Properties.Resources.resources
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\obj\Debug\المشروع.csproj.GenerateResource.Cache
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\obj\Debug\المشروع.exe
+C:\Users\Al3lamya\Desktop\projects\المشروع\المشروع\obj\Debug\المشروع.pdb
+F:\projects\المشروع\المشروع\bin\Debug\المشروع.exe.config
+F:\projects\المشروع\المشروع\obj\Debug\المشروع.exe
+F:\projects\المشروع\المشروع\obj\Debug\المشروع.pdb
